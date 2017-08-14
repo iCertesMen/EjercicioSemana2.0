@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Tarea Semana Dos</string>
+    <string name="ingrese_nombre">Nombre Completo</string>
+    <string name="ingrese_telefono">Telefono</string>
+    <string name="ingrese_email">eMail</string>
+    <string name="ingrese_descripcion">Descripción Contacto</string>
+    <string name="boton_siguiente">Siguiente</string>
+    <string name="titulo_activiti2">Confirmar Datos</string>
+    <string name="nombre_activiti2">Iñigo</string>
+    <string name="fecha_activiti2">Fecha Nacimiento:</string>
+    <string name="fechacacha_activiti2">78/45/23</string>
+    <string name="telefono_activiti2">Tel:</string>
+    <string name="cacha_telefono_activiti2">911</string>
+    <string name="email_activiti2">eMail:</string>
+    <string name="cacha_email_activiti2">manino.makash@gmail.com</string>
+    <string name="cacha_descripcion_activiti2">Conocí a Chundo en el chando hechando chandas por chandeo</string>
+    <string name="boton_editar_activiti2">Editar Datos</string>
+
+</resources>
